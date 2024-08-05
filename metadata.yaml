@@ -1,0 +1,42 @@
+_repo: A-vagyon-tudomanya_74013
+_version: 0.0.1
+alternative_title: The science of wealth. Hungarian
+contributor:
+  translator:
+    agent_name: Sidó, Zoltán
+    alias: Sido, Zoltan
+    birthdate: 1880
+    deathdate: 1942
+    gutenberg_agent_id: '57311'
+    url: http://www.gutenberg.org/2009/agents/57311
+creator:
+  author:
+    agent_name: Hobson, J. A. (John Atkinson)
+    alias: Hobson, John Atkinson
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '3647'
+    url: http://www.gutenberg.org/2009/agents/3647
+    wikipedia: https://en.wikipedia.org/wiki/J._A._Hobson
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74013'
+language: hu
+pgterms:marc905: 20231224075520hobson
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Kultura és tudomány
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+- GITenberg
+title: A vagyon tudománya
+url: http://www.gutenberg.org/ebooks/74013
