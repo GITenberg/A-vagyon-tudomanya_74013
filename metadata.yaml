@@ -9,6 +9,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '57311'
     url: http://www.gutenberg.org/2009/agents/57311
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hobson, J. A. (John Atkinson)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3647
     wikipedia: https://en.wikipedia.org/wiki/J._A._Hobson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74013#A-vagyon-tudomanya
 gutenberg_issued: '2024-07-11'
 gutenberg_type: Text
 identifiers:
